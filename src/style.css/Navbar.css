@@ -1,0 +1,17 @@
+/* General link styles */
+.nav-continer a {
+  transition: transform 0.3s, border-bottom 0.3s;
+}
+
+/* Hover effect: scale and border bottom */
+.nav-continer a:hover {
+  transform: scale(1.1);
+  border-bottom: 2px solid #fff;
+}
+
+/* Responsive font size for smaller screens */
+@media (max-width: 576px) {
+  .nav-continer a {
+    font-size: 1.2rem;
+  }
+}

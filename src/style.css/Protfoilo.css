@@ -1,0 +1,14 @@
+.portfoilo-container{
+  height: fit-content;
+}
+
+.card-img-top {
+  display: block;
+  margin: 0 auto;
+}
+
+.card {
+  max-width: 400px;
+  margin: 0 auto;
+}
+

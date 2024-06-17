@@ -1,0 +1,33 @@
+.contact{
+  height:75vh
+}
+
+/* Make labels bold and white */
+.form-label {
+  font-weight: bold;
+  color: white;
+}
+
+/* Ensure the button matches the size of the input fields */
+.send {
+  width: 80%;
+  padding: 0.5rem 1rem;
+  margin: auto;
+}
+
+form div {
+  width: 100%;
+}
+
+/* General styles for the form container */
+
+
+
+
+
+
+.invalid-feedback {
+  color: red;
+}
+
+
